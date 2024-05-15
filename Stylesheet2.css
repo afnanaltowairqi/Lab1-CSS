@@ -1,6 +1,6 @@
 h1, h2, h3 {
     color: rgb(255, 255, 255);
-    border: 2px solid white;
+    border: 2px solid rgb(54, 54, 54);
     font-family:Arial, sans-serif ;
     text-align: center;
 }
