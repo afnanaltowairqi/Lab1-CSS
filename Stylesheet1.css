@@ -1,0 +1,24 @@
+h1 ,h2, h3 {
+    background-color: rgb(199, 236, 245);
+    color: rgb(21, 21, 46);
+    border: 2px double rgb(18, 9, 71);
+    text-align: center;
+}
+p {
+    color: rgb(65, 65, 65);
+    font-family:Arial, sans-serif ;
+    font-size: 15px;
+    text-align: center;
+}
+ul li {
+    padding: 0;
+    align-content: center;  
+}
+*{
+    margin: 0;
+}
+body {
+    background-image: url("https://images.unsplash.com/photo-1554034483-04fda0d3507b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvbG9yJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
